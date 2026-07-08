@@ -1,4 +1,4 @@
-  name: first workflow
+  name: first_workflow
   on: push
   job:
     echo:
